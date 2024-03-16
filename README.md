@@ -1,5 +1,5 @@
 # Problem Description
-Creating a CICD pipeline dor deploying a NodeJs App using jenkins building the infrastructure using IaaC (Terraform) in AWS.
+Creating a CICD pipeline dor deploying a NodeJs App using jenkins building the infrastructure using IaC (Terraform) in AWS.
 
 ## Steps
 - VPC setup on AWS which includes public & private subnets (multi-AZ) using Terraform
